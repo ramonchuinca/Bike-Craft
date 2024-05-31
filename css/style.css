@@ -1,5 +1,6 @@
 @import"./global/header.css";
 @import"./global/global.css";
+@import"./global/footer.css";
 
 /*Utilidades*//**//**/
 
@@ -11,8 +12,14 @@
 
 @import"./home/introducao.css";
 @import"./home/tecnologia.css";
+@import"./home/parceiros.css";
+@import"./home/depoimento.css";
 
 
 @import"./bicicletas/bicicletas-lista.css";
 
-  
+
+/* Seguros */
+
+@import"./seguros/seguros.css";
+@import"./termos/termos.css";
